@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "919200129134",
+    "firebase_url": "https://tungar-todo-default-rtdb.firebaseio.com",
+    "project_id": "tungar-todo",
+    "storage_bucket": "tungar-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919200129134:android:4fca1b7a91f4ebab32c67f",
+        "android_client_info": {
+          "package_name": "com.example.super_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919200129134-r488qfgsard8uu8p5raalnjcn3ifuhe1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.super_todo",
+            "certificate_hash": "f9e5888c5617b7cb2231a97533a4be45116adb60"
+          }
+        },
+        {
+          "client_id": "919200129134-cpopal4usuk82i5i7gc7o1j2p9f7in5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi3bJWs_J6G7XUK6vxbdcI_lD9ooa6bsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919200129134-cpopal4usuk82i5i7gc7o1j2p9f7in5t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919200129134-ol40ahhp8v5e1k3ervv72irrvv792pbs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.superTodo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
